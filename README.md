@@ -92,3 +92,5 @@ Le planificateur SAT trouve des solutions optimales en 3 étapes :
 ## Licence
 
 Projet académique - Usage libre pour l'apprentissage et la recherche.
+
+**Jirince Biaba Kuya**
