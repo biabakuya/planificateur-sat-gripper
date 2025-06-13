@@ -1,0 +1,15 @@
+Problème: return_gripper
+==============================
+
+Description: Aller chercher la balle dans roomB et revenir avec elle dans roomA
+
+Objets: roomA, roomB
+
+État initial:
+(at_ball roomB)
+    (at_robot roomA)
+    (free_hand)
+
+Objectif:
+(at_ball roomA)
+      (at_robot roomA)

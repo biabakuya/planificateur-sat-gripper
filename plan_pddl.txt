@@ -1,0 +1,3 @@
+(pickup ball roomA)
+(move roomA roomB)
+(drop ball roomB)

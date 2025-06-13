@@ -1,0 +1,15 @@
+Problème: multiple_moves
+==============================
+
+Description: Quatre pièces: déplacer la balle de A vers C et finir dans B
+
+Objets: roomA, roomB, roomC, roomD
+
+État initial:
+(at_ball roomA)
+    (at_robot roomD)
+    (free_hand)
+
+Objectif:
+(at_ball roomC)
+      (at_robot roomB)

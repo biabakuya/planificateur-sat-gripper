@@ -1,0 +1,14 @@
+Problème: three_rooms
+==============================
+
+Description: Trois pièces: robot dans C, balle dans A, objectif dans B
+
+Objets: roomA, roomB, roomC
+
+État initial:
+(at_ball roomA)
+    (at_robot roomC)
+    (free_hand)
+
+Objectif:
+(at_ball roomB)

@@ -1,0 +1,6 @@
+Plan de résolution du problème Gripper
+========================================
+
+Étape 1: pickup_roomA à t=0
+Étape 2: move_A_to_B à t=1
+Étape 3: drop_roomB à t=3

@@ -1,0 +1,14 @@
+Problème: simple_gripper
+==============================
+
+Description: Déplacer une balle de roomA vers roomB - Le plus simple possible
+
+Objets: roomA, roomB
+
+État initial:
+(at_ball roomA)
+    (at_robot roomA)
+    (free_hand)
+
+Objectif:
+(at_ball roomB)

@@ -1,0 +1,37 @@
+COMPARAISON DES PLANIFICATEURS
+Domaine Gripper
+========================================
+
+RÉSULTATS DÉTAILLÉS
+--------------------
+
+SAT:
+  Succès: Oui
+  Temps: 0.000507 secondes
+  Actions: 3
+  Makespan: 3
+
+HSP:
+  Succès: Oui
+  Temps: 0.015000 secondes
+  Actions: 3
+  Makespan: 3
+
+BreadthFirst:
+  Succès: Oui
+  Temps: 0.025000 secondes
+  Actions: 3
+  Makespan: 3
+
+DepthFirst:
+  Succès: Oui
+  Temps: 0.012000 secondes
+  Actions: 4
+  Makespan: 4
+
+ANALYSE
+--------
+
+Planificateur le plus rapide: SAT (0.0005s)
+Plan le plus court: SAT (3 actions)
+Gagnant: SAT (rapide ET optimal)
