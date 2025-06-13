@@ -62,15 +62,15 @@ python compare_planners.py
 
 ```
 .
-├── domain.pddl              # Définition du domaine PDDL
-├── problem.pddl             # Instance du problème
-├── encodeur_sat.py          # Logique d'encodage SAT
-├── write_cnf.py             # Génération fichier CNF
-├── run_solver.py            # Interface solveur SAT
-├── benchmark.py             # Analyse de performance
-├── compare_planners.py      # Comparaison planificateurs
-├── val_validator.py         # Validation des plans
-└── run_full_exercise.py     # Script principal
+domain.pddl              # Définition du domaine PDDL
+problem.pddl             # Instance du problème
+encodeur_sat.py          # Logique d'encodage SAT
+write_cnf.py             # Génération fichier CNF
+run_solver.py            # Interface solveur SAT
+benchmark.py             # Analyse de performance
+ompare_planners.py      # Comparaison planificateurs
+val_validator.py         # Validation des plans
+run_full_exercise.py     # Script principal
 ```
 
 ## Résultats
